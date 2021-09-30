@@ -1,3 +1,3 @@
 # DL-class
 
-##NLP 관련 공부
+NLP 관련 공부
